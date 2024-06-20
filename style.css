@@ -1,0 +1,52 @@
+.navbar
+{
+    height: 41px;
+    width: 100%;
+    display: flex;
+    background-color: ;
+}a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.nav1
+{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 50px;
+    color: green;
+    font-style: bold;
+}
+.nav2
+{
+    width: 60%;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav2 li 
+{
+    cursor: pointer;
+    color: gray;
+}
+.nav2 li i
+{
+    padding-left: 25px;
+    margin-right: 5px;
+}
+.nav3
+{
+    width: 20%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.nav3 i
+{   
+    padding: 6px;
+    margin-right: 10px;
+    color: green;
+}
